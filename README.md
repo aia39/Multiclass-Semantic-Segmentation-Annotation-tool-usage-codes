@@ -1,4 +1,9 @@
 # Multiclass-Semantic-Segmentation-Annotation with tool-usage-codes
+Main image to be annotated is:
+![Main image](garden_frame15.jpg)
+
+The annotated image (grayscale 1 channel) for separate classes:
+![Annotated image](museum_frame15.png)
 
 # Step by step guideline
 * First, download the Fiji [software](https://imagej.net/software/fiji/?fbclid=IwAR26ajriJbLHJcDIoJU3g8RfrWojjTbk_Y72_qy8oqHdZ2wk9__TdMWOqDA) for annotating for semantic segmentation.
