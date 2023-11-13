@@ -7,4 +7,4 @@
 * Later, use **Draw, Flood fill, Erase** to draw masks for desired classes. To add more classes, click 'Add Label' button. Complete drawing mask accordingly for each classes. Don't forget to add background (can use Flood fill) at the end as a class.
 * For each class, click the 'Export as Bitmap..' button to save the binary semantic segmentation mask image (in .tif format) for each class.
 * Save all the binary mask for each class like previous step.
-* Lastly, run the python code to make a multiclass semantic segmentation mask in grayscale.
+* Lastly, run the python code (Multiclass semantic segmentation annotation.ipynb) to make a multiclass semantic segmentation mask in grayscale. Make sure to change the name of binary mask files and the desired label of each class in the python code.
